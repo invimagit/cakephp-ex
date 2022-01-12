@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Bienvenidos a la demo de aplicación LAMP en OpenShift</h1>
+           <h1>Bienvenidos a la demo de aplicación LAMP sobre OpenShift</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
