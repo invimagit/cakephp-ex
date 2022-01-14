@@ -210,13 +210,13 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Bienvenidos a la demo de aplicación LAMP en OpenShift</h1>
+           <h1>Bienvenidos todos...</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
 
         <footer>
-          <div class="logo"><a href="https://www.redhat.com/"></a></div>
+          <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
 
